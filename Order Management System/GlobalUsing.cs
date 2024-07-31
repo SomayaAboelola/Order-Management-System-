@@ -1,0 +1,13 @@
+﻿global using Orders.Core.Repository.Contract;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Order_Management_System.Dtos;
+global using Order_Management_System.Error;
+global using Orders.Core.Entities;
+global using Orders.Core.Service.Contract;
+global using Microsoft.AspNetCore.Authorization;
+global using Orders.Core.Dtos;
+global using AutoMapper;
